@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=HawkdotDev&show_icons=true&theme=transparent)]
+![Hawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=HawkdotDev&show_icons=true&theme=transparent)
 
 <!--
 **HawkdotDev/HawkdotDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
