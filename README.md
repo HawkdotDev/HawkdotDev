@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/HawkdotDev"><img width="80%" alt="Hey! I'm Dwaipayan. I love to build things & Code!"/></a></p>
 
 | <a href="https://github.com/HawkdotDev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HawkdotDev&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&theme=aura&hide_border=true" /></a> |
 | ------------- | ------------- |
