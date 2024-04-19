@@ -2,7 +2,7 @@
 <p align="center">Hey! I'm Dwaipayan. I love to build things & Code!</p>
 -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=HawkdotDev&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Hawk's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&theme=aura&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=HawkdotDev&show_icons=true&theme=aura&hide_border=true" alt="Hawk's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&theme=aura&hide_border=true" /> |
 | ------------- | ------------- |
 
 <!--
