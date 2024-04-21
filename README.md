@@ -2,7 +2,8 @@
 <p align="center">Hey! I'm Dwaipayan. I love to build things & Code!</p>
 -->
 # Hi, Welcome to my GitHub
-### I'm Dwaipayan Dutta, Full Stack Developer, Game Developer, and Designer.</h3>
+### I'm Dwaipayan Dutta, 
+#### a Full Stack Developer, Game Developer, and Designer.
 
 Here, you'll discover a collection of projects crafted with various technologies in my arsenal. I thrive on applying newfound knowledge that I learn, believing that true comprehension only comes through hands-on experience.
 
