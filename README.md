@@ -4,6 +4,8 @@
 # Hi, Welcome to my GitHub
 ### I'm Dwaipayan Dutta, Full Stack Developer, Game Developer, and Designer.</h3>
 
+Here, you'll discover a collection of projects crafted with various technologies in my arsenal. I thrive on applying newfound knowledge that I learn, believing that true comprehension only comes through hands-on experience.
+
 <!--
 <div style="text-align: center;">
   <a href="https://github.com/HawkdotDev" style="display: inline-block;">
@@ -39,3 +41,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&langs_count=7&theme=tokyonight&border_color=ffffff00"/>
+</div>
