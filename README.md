@@ -3,7 +3,7 @@
 -->
 # Hi, Welcome to my GitHub
 ### I'm Dwaipayan Dutta, 
-#### a Full Stack Developer, Game Developer, and Designer.
+#### an Enthusiast, Developer, and Designer.
 
 Here, you'll discover a collection of projects crafted with various technologies in my arsenal. I thrive on applying newfound knowledge that I learn, believing that true comprehension only comes through hands-on experience.
 
