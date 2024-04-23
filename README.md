@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&langs_count=7&theme=tokyonight&border_color=ffffff00"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&langs_count=7&theme=tokyonight&border_color=ffffff00"/> -->
 </div>
