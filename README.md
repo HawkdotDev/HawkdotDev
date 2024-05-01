@@ -3,11 +3,10 @@
 -->
 # Hi, Welcome to my GitHub
 <div align="center">
-   <img width="100%" src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" />
+   <img width="100%" height="450em" src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" />
 </div>
 
-### I'm Dwaipayan Dutta, 
-#### an Enthusiast, Developer, and Designer.
+### I'm Dwaipayan Dutta, an Enthusiast, Developer, and Designer.
 
 Here, you'll discover a collection of projects crafted with various technologies in my arsenal. I thrive on applying newfound knowledge that I learn, believing that true comprehension only comes through hands-on experience.
 
