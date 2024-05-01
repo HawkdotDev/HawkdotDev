@@ -2,6 +2,10 @@
 <p align="center">Hey! I'm Dwaipayan. I love to build things & Code!</p>
 -->
 # Hi, Welcome to my GitHub
+<div align="center">
+   <img width="100%" src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" />
+</div>
+
 ### I'm Dwaipayan Dutta, 
 #### an Enthusiast, Developer, and Designer.
 
