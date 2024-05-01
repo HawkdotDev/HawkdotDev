@@ -1,7 +1,7 @@
 <!--
 <p align="center">Hey! I'm Dwaipayan. I love to build things & Code!</p>
 -->
-## Hi, Welcome to my GitHub
+### Hi, Welcome to my GitHub
 <div align="center">
    <img width="100%" height="400em" src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" />
 </div>
