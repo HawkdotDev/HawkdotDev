@@ -3,7 +3,7 @@
 -->
 ### Hi, Welcome to my GitHub
 <div align="center">
-   <img width="100%" height="400em" src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" />
+   <img width="100%" height="350em" src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" />
 </div>
 
 ### I'm Dwaipayan Dutta, an Enthusiast, Developer, and Designer.
