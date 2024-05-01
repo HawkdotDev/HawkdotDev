@@ -3,7 +3,7 @@
 -->
 ### Hi, Welcome to my GitHub
 <div align="center">
-   <img width="85%" height="300em" src="https://media1.tenor.com/m/zTgQ4gi2n8wAAAAC/guy-sensei-naruto.gif" />
+   <img width="95%" height="300em" src="https://media1.tenor.com/m/zTgQ4gi2n8wAAAAC/guy-sensei-naruto.gif" />
 </div>
 
 ### I'm Dwaipayan Dutta, an Enthusiast, Developer, and Designer.
