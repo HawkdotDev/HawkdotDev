@@ -4,7 +4,7 @@
 ### Hi, Welcome to my GitHub
 <div align="center">
 <!--    <img width="95%" height="300em" src="https://media1.tenor.com/m/vccXXc0J96IAAAAC/wano-luffy-wano.gif" /> -->
-   <img width="95%" height="300em" src="https://media1.tenor.com/m/1OX6XJ6cEQ8AAAAC/one-piece-trafalgar-law.gif" />
+   <img width="100%" height="300em" src="https://media1.tenor.com/m/1OX6XJ6cEQ8AAAAC/one-piece-trafalgar-law.gif" />
 <!--    https://media1.tenor.com/m/1OX6XJ6cEQ8AAAAC/one-piece-trafalgar-law.gif -->
 </div>
 
