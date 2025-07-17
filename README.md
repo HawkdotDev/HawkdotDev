@@ -8,7 +8,7 @@
 <!--    https://media1.tenor.com/m/1OX6XJ6cEQ8AAAAC/one-piece-trafalgar-law.gif -->
 </div>
 
-### I'm Dwaipayan Dutta, an Enthusiast, Developer, and Designer.
+### I'm Dwaipayan Dutta, an Enthusiast, Developer, and Engineer.
 
 Here, you'll discover a collection of projects crafted with various technologies in my arsenal. I thrive on applying newfound knowledge that I learn, believing that true comprehension only comes through hands-on experience.
 
