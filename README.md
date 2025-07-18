@@ -1,7 +1,7 @@
 <!--
 <p align="center">Hey! I'm Dwaipayan. I love to build things & Code!</p>
 -->
-### Hi, Welcome to my GitHub
+### Hi, Welcome to my GitHub profile
 <div align="center">
 <!--    <img width="95%" height="300em" src="https://media1.tenor.com/m/vccXXc0J96IAAAAC/wano-luffy-wano.gif" /> -->
 <!--    <img width="100%" height="300em" src="https://media1.tenor.com/m/1OX6XJ6cEQ8AAAAC/one-piece-trafalgar-law.gif" /> -->
