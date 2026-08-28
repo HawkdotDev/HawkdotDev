@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://github.com/user-attachments/assets/47ecea3b-3c45-4c98-a11a-8a9d957936ca" width="100%" height="200" alt="HawkdotDev Header Banner" />
+  <img src="https://github.com/user-attachments/assets/47ecea3b-3c45-4c98-a11a-8a9d957936ca" width="100%" height="350" alt="HawkdotDev Header Banner" />
 
   <br/>
 
