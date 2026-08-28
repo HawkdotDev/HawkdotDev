@@ -9,16 +9,14 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/HawkdotDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&background=0D111700&center=true&vCenter=true&width=650&lines=Dwaipayan+Dutta+%7C+Software+Engineer;Full-Stack+Architect+%26+Systems+Builder;Engineering+Intuitive%2C+High-Performance+Software;Driven+by+First-Principles+Development" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&background=0D111700&center=true&vCenter=true&width=650&lines=Dwaipayan+Dutta+%7C+Software+Engineer;Full-Stack+Architect+%26+Systems+Builder;Driven+by+First-Principles+Development" alt="Typing Header" />
   </a>
-
-  <p align="center">
-    <code>Systems Engineering</code> &nbsp;•&nbsp; 
-    <code>Desktop & Web Architecture</code> &nbsp;•&nbsp; 
-    <code>Open Source Tooling</code>
-  </p>
-
 </div>
+
+### Executive Summary
+
+I am a software engineer focused on building robust, high-performance systems and developer tools. My approach is grounded in first-principles engineering: breaking down complex domain problems into clean abstractions, prioritizing deterministic behavior, and delivering responsive user interfaces.
+
 <div align="center">
 
 <table>
@@ -51,13 +49,13 @@
   </tr>
 </table>
 
+<p align="center">
+    <code>Systems Engineering</code> &nbsp;•&nbsp; 
+    <code>Desktop & Web Architecture</code> &nbsp;•&nbsp; 
+    <code>Open Source Tooling</code>
+  </p>
+
 </div>
-
-<br/>
-
-### Executive Summary
-
-I am a software engineer focused on building robust, high-performance systems and developer tools. My approach is grounded in first-principles engineering: breaking down complex domain problems into clean abstractions, prioritizing deterministic behavior, and delivering responsive user interfaces.
 
 <br/>
 
