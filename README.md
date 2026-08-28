@@ -88,9 +88,3 @@
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HawkdotDev&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7DCFFF" alt="GitHub Streak" />
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <sub>Engineered by <a href="https://github.com/HawkdotDev">HawkdotDev</a> • Focused on Performance, Precision, and Code Quality</sub>
-</div>
