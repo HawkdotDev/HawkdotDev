@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="left">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
 
-  Hello! 👋
+<div align="center">
 
   <!-- Header Banner -->
   <img src="https://github.com/user-attachments/assets/47ecea3b-3c45-4c98-a11a-8a9d957936ca" width="100%" alt="HawkdotDev Header Banner" />
@@ -19,17 +19,6 @@
   </p>
 
 </div>
-
-<br/>
-
-### Executive Summary
-
-I am a software engineer focused on building robust, high-performance systems and developer tools. My approach is grounded in first-principles engineering: breaking down complex domain problems into clean abstractions, prioritizing deterministic behavior, and delivering responsive user interfaces.
-
-<br/>
-
-### Technical Capabilities
-
 <div align="center">
 
 <table>
@@ -66,6 +55,12 @@ I am a software engineer focused on building robust, high-performance systems an
 
 <br/>
 
+### Executive Summary
+
+I am a software engineer focused on building robust, high-performance systems and developer tools. My approach is grounded in first-principles engineering: breaking down complex domain problems into clean abstractions, prioritizing deterministic behavior, and delivering responsive user interfaces.
+
+<br/>
+
 ### Key Projects & Architecture
 
 | Repository | Focus & Functionality | Stack |
@@ -85,10 +80,10 @@ I am a software engineer focused on building robust, high-performance systems an
     <img height="160em" src="https://github-stats-extended.vercel.app/api?username=HawkdotDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="GitHub Stats" />
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HawkdotDev&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7DCFFF" alt="GitHub Streak" />
   </a>
-  <br/><br/>
+  <!-- <br/><br/>
   <a href="https://github.com/HawkdotDev">
     <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="Top Languages" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
