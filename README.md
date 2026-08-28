@@ -1,5 +1,7 @@
 <div align="center">
 
+  Hello! 👋
+
   <!-- Header Banner -->
   <img src="https://github.com/user-attachments/assets/47ecea3b-3c45-4c98-a11a-8a9d957936ca" width="100%" alt="HawkdotDev Header Banner" />
 
@@ -16,18 +18,6 @@
     <code>Open Source Tooling</code>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/HawkdotDev">
-      <img src="https://img.shields.io/badge/GitHub-HawkdotDev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-    </a>
-    <a href="https://www.linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Direct Email" />
-    </a>
-  </p>
-
 </div>
 
 <br/>
@@ -35,15 +25,6 @@
 ### Executive Summary
 
 I am a software engineer focused on building robust, high-performance systems and developer tools. My approach is grounded in first-principles engineering: breaking down complex domain problems into clean abstractions, prioritizing deterministic behavior, and delivering responsive user interfaces.
-
-```
-+-----------------------------------------------------------------------------+
-|  ENGINEERING PROFILE                                                        |
-|  - Focus: Modern Systems Architecture, Desktop Clients, Distributed Web     |
-|  - Paradigm: Type Safety, High Throughput, Zero-Bloat Interfaces            |
-|  - Philosophy: "Understanding emerges from active implementation."          |
-+-----------------------------------------------------------------------------+
-```
 
 <br/>
 
@@ -86,17 +67,6 @@ I am a software engineer focused on building robust, high-performance systems an
 <br/>
 
 ### Key Projects & Architecture
-
-<div align="center">
-  <a href="https://github.com/HawkdotDev/neobit">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HawkdotDev&repo=neobit&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="neobit" />
-  </a>
-  <a href="https://github.com/HawkdotDev/muninn">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HawkdotDev&repo=muninn&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="muninn" />
-  </a>
-</div>
-
-<br/>
 
 | Repository | Focus & Functionality | Stack |
 | :--- | :--- | :--- |
