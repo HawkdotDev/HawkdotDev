@@ -56,7 +56,7 @@
 
 </div>
 
-<br/>
+<!-- <br/>
 
 ### Key Projects & Architecture
 
@@ -66,11 +66,21 @@
 | [**muninn**](https://github.com/HawkdotDev/muninn) | Cross-platform network telemetry dashboard providing real-time packet inspection and interface diagnostics. | `Electron` `React` `Node.js` |
 | [**habitquest**](https://github.com/HawkdotDev/habitquest) | Behavioral habit-reinforcement engine utilizing gamified progression mechanics and persistent state. | `TypeScript` `React` `Tailwind` |
 | [**zapi**](https://github.com/HawkdotDev/zapi) | Low-overhead browser extension for rapid REST/HTTP schema introspection and API prototyping. | `JavaScript` `WebExtension API` |
-| [**modo**](https://github.com/HawkdotDev/modo) | Focused, low-latency productivity timer engineered with minimal memory footprint and zero distractions. | `TypeScript` `Modern Web` |
+| [**modo**](https://github.com/HawkdotDev/modo) | Focused, low-latency productivity timer engineered with minimal memory footprint and zero distractions. | `TypeScript` `Modern Web` | -->
 
 <br/>
 
-### Activity & Repository Metrics
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HawkdotDev/HawkdotDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HawkdotDev/HawkdotDev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/HawkdotDev/HawkdotDev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+### Metrics
 
 <div align="center">
   <a href="https://github.com/HawkdotDev">
