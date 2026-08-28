@@ -9,13 +9,12 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/HawkdotDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&background=0D111700&center=true&vCenter=true&width=650&lines=Dwaipayan+Dutta+%7C+Software+Engineer;Full-Stack+Architect+%26+Systems+Builder;Driven+by+First-Principles+Development" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3bf799&background=0D111700&center=true&vCenter=true&width=650&lines=Dwaipayan+Dutta+%7C+Software+Engineer;Full-Stack+Architect+%26+Systems+Builder;Driven+by+First-Principles+Development" alt="Typing Header" />
   </a>
 </div>
 
-### Executive Summary
-
-I am a software engineer focused on building robust, high-performance systems and developer tools. My approach is grounded in first-principles engineering: breaking down complex domain problems into clean abstractions, prioritizing deterministic behavior, and delivering responsive user interfaces.
+> 🧑‍💻 I am a **Software Engineer & Technology Enthusiast** driven by relentless curiosity and a passion for building robust, high-performance systems and developer tools.  
+> My approach is grounded in **first-principles engineering**: breaking down complex domain problems into clean abstractions, prioritizing deterministic behavior, and delivering responsive user interfaces.
 
 <div align="center">
 
@@ -78,10 +77,6 @@ I am a software engineer focused on building robust, high-performance systems an
     <img height="160em" src="https://github-stats-extended.vercel.app/api?username=HawkdotDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="GitHub Stats" />
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HawkdotDev&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7DCFFF" alt="GitHub Streak" />
   </a>
-  <!-- <br/><br/>
-  <a href="https://github.com/HawkdotDev">
-    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HawkdotDev&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="Top Languages" />
-  </a> -->
 </div>
 
 <br/>
