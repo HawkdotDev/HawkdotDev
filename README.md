@@ -68,8 +68,6 @@
 | [**zapi**](https://github.com/HawkdotDev/zapi) | Low-overhead browser extension for rapid REST/HTTP schema introspection and API prototyping. | `JavaScript` `WebExtension API` |
 | [**modo**](https://github.com/HawkdotDev/modo) | Focused, low-latency productivity timer engineered with minimal memory footprint and zero distractions. | `TypeScript` `Modern Web` | -->
 
-<br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HawkdotDev/HawkdotDev/output/github-contribution-grid-snake-dark.svg" />
@@ -77,8 +75,6 @@
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/HawkdotDev/HawkdotDev/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br/>
 
 ### Metrics
 
@@ -88,3 +84,5 @@
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HawkdotDev&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7DCFFF" alt="GitHub Streak" />
   </a>
 </div>
+
+<br/>
